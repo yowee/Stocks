@@ -7,6 +7,7 @@ Stocks is a android applications that displays latest stock market Summary and r
 
 ## Usage 
 Generate new token from yahoo finance [Yahoo Finance](https://rapidapi.com/apidojo/api/yh-finance/)
+Replace X_RapidAPI_Key value with your new token
 ```java
     const val BASE_URL = "https://yh-finance.p.rapidapi.com"
     const val SUMMARY_END_POINT = "/market/v2/get-summary"
