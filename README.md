@@ -31,18 +31,18 @@ Notification
 
 
 # Features
-Signnup with Email and password
+Notification
 
-SignIn with Email and password
-
-Social Login(Facebook and Google)
-
-# Architecture **"MVVM"**
+# Architecture **"CLEAN"**
 Dipendency Injection
 
 Repository
 
 ViewModel
+
+Presentation
+
+Use Cases
 
 # Libraries
 
@@ -60,7 +60,4 @@ Firebase
 
 # API
 
-Rooms: https://yh-finance.p.rapidapi.com/market/v2/get-summary
-
-
-People: https://61e947967bc0550017bc61bf.mockapi.io/api/v1/people
+Market summary: https://yh-finance.p.rapidapi.com/market/v2/get-summary
