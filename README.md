@@ -1,9 +1,9 @@
 # Stocks
 Stocks is a android applications that displays latest stock market Summary and receive notification from firebase cloud
 
-<img src="https://github.com/yowee/Stocks/assets/14086636/66b560c0-538c-454f-9034-734e2c94ca2d" width="340"/>
-
-<img src="https://github.com/yowee/Stocks/assets/14086636/67f09636-cb04-4333-a0d4-ebd56414d4cc" width="340"/>
+<img src="https://github.com/yowee/Stocks/assets/14086636/66b560c0-538c-454f-9034-734e2c94ca2d" width="240"/>
+<img src="https://github.com/yowee/Stocks/assets/14086636/67f09636-cb04-4333-a0d4-ebd56414d4cc" width="240"/>
+<img src="https://github.com/yowee/Stocks/assets/14086636/0ade9a0d-4325-4246-9bc3-0a114d14c3e3" width="240"/>
 
 
 ## Usage 
