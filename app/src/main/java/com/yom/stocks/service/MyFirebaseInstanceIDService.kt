@@ -1,4 +1,4 @@
-package  com.yom.stocks
+package  com.yom.stocks.service
 
 
 import android.app.NotificationChannel
@@ -16,6 +16,7 @@ import androidx.work.Worker
 import androidx.work.WorkerParameters
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
+import com.yom.stocks.R
 import com.yom.stocks.presentation.MainActivity
 
 class MyFirebaseMessagingService : FirebaseMessagingService() {
