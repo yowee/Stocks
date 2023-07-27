@@ -3,6 +3,7 @@ Stocks is a android applications that displays latest stock market Summary and r
 
 <img src="https://github.com/yowee/Stocks/assets/14086636/66b560c0-538c-454f-9034-734e2c94ca2d" width="340"/>
 
+<img src="https://github.com/yowee/Stocks/assets/14086636/67f09636-cb04-4333-a0d4-ebd56414d4cc" width="340"/>
 
 
 ## Usage 
